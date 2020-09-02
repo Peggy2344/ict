@@ -13,3 +13,9 @@ for(let i=0;i<arr.length;i++){
 }
 ```  
 * git checkout master - 將分支改回 master(否則要用merge)  
+
+#### 拉專案回本地端
+* git init  
+* git remote add 專案名稱 網址  
+* git remote  
+* git pull 專案名稱 master
