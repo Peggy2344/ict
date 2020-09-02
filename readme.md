@@ -30,5 +30,5 @@ for(let i=0;i<arr.length;i++){
 #### branch
 * git branch => 確認所在分支位置  
 * git checkout + 分支名稱 => 切換所在位置
-=======
->>>>>>> 6bc2d223dcad0a00b8da0980c6242056f77cef30
+
+
